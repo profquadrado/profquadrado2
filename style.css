@@ -4,10 +4,10 @@
 }
 
 .cabecalho {
-    background-color: #a19686;
+    background-color: #e5caa0;
     color: black;
     display: flex;
-    justify-content:space-around;
+    justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
@@ -17,7 +17,17 @@
 }
 
 .cabecalho-lista-item{
-    display:inline-block
-    margin: 0 16px;
-    font-siza: 24px;
+    display: inline-block
+    margin: 0; 16px;
+    font-size: 24px;
+}
+
+.Biografia-imagm{
+    width: 25%
+}
+
+.escola{
+    background-image: linear-gradient{#e5caa0, ECE0D0}
+    color: black;
+    
 }

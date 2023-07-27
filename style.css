@@ -12,22 +12,26 @@
     padding: 24px 0;
 }
 
-.cabecalho-image{
+.cabecalho-imagem {
     width: 20%;
 }
 
-.cabecalho-lista-item{
+.cabecalho-lista-item {
     display: inline-block
     margin: 0; 16px;
     font-size: 24px;
 }
 
-.Biografia-imagm{
+.biografia-imagem {
     width: 25%
 }
 
-.escola{
+.biografia {
     background-image: linear-gradient{#e5caa0, ECE0D0}
     color: black;
     
+}
+.biografia-texto {
+    padding: 10px;
+    margin: opx;
 }

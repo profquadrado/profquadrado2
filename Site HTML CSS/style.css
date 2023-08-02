@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    front-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cabecalho {
+    background-color: #e5caa0;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem {
+    width: 20%;
+    height: fit-content;
+}
+
+.cabecalho-lista-item { 
+    display: inline-block;
+    margin: 0; 16px;
+    font-size: 24px;
+}
+
+.Biografia-imagem {
+    width: 25%
+}
+
+.escola {
+    background-image: linear-gradient{#e5caa0, ECE0D0}
+    color: black;
+    
+}

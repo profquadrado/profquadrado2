@@ -4,11 +4,11 @@ Boas Vindas ao meu perfilEsto
 
 Meu  nome é Kellen Valbuena Quadrado
 -
-Sou embaixadroea Edutech, estudante da  Alura
+Sou embaixadora Programação Pr, cursista da  Alura
 
 -Estou me desenvolvendo na linguagem JavaScript
 
--Utilizo este espa para minha organização e compartilhamento  de arquivos e projetos
+-Utilizo este espaço para minha organização e compartilhamento  de arquivos e projetos
 
 ### Você pode entrar em contato comigo :mailbox
 
